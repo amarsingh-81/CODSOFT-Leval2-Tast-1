@@ -1,4 +1,4 @@
-# CODSOFT-Leval2-Tast-1
+# CODSOFT-Level-2-Task-1
 My Linkedin Profilelink: https://www.linkedin.com/in/amar-singh-917309311/
 
 Task 1 of my Codsoft Internship — successfully completed! ✅
